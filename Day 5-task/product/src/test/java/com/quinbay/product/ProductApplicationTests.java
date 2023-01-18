@@ -1,10 +1,10 @@
-package com.quinbay.employee;
+package com.quinbay.product;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class EmployeeApplicationTests {
+class ProductApplicationTests {
 
 	@Test
 	void contextLoads() {
