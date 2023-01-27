@@ -47,7 +47,7 @@ public class KafkaListeners {
             System.out.println(product.getGst());
             System.out.println(retailer.getRname());
 
-            billingService.sendEmail();
+//            billingService.sendEmail();
 
             Scanner sc = new Scanner(System.in);
 
